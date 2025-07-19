@@ -154,3 +154,5 @@ This dashboard analyzes agricultural crop sales data focusing on customer perfor
 
 ## Screenshots
 (https://github.com/manishyadav004/SN-Crop-Dashboard/blob/main/Screenshot%202025-07-12%20222404.png)
+<img width="1311" height="732" alt="Screenshot 2025-07-12 222127" src="https://github.com/user-attachments/assets/ee8cb6f0-2460-425b-ae08-5c13efe8b3bd" />
+
