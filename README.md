@@ -18,10 +18,10 @@ This dashboard analyzes agricultural crop sales data focusing on customer perfor
 ## Technical Implementation
 
 ###  Data Architecture
- . Primary Dataset: Agricultural sales transaction data
- . Date Range: 2017-2020 with quarterly breakdowns
- . Geographic Coverage: Multi-regional analysis with country-level mapping
- . Customer Segmentation: Individual customer performance tracking
+ - Primary Dataset: Agricultural sales transaction data
+ - Date Range: 2017-2020 with quarterly breakdowns
+ - Geographic Coverage: Multi-regional analysis with country-level mapping
+ - Customer Segmentation: Individual customer performance tracking
 
  ### Data Modeling
  . Integrated sales, cost, and profit calculations
