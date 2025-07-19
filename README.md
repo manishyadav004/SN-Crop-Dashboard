@@ -83,7 +83,7 @@ This dashboard analyzes agricultural crop sales data focusing on customer perfor
 
 ## Technical Features
 
-###Data Preparation
+### Data Preparation
 
  - Comprehensive data cleaning and transformation
  - Date standardization and hierarchy creation
