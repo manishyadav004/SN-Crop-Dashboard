@@ -8,12 +8,12 @@ This dashboard analyzes agricultural crop sales data focusing on customer perfor
 
 ## Business Questions Addressed
 
-Performance Metrics: Display key performance indicators including total sales (1.3M), costs (639.7K), and profit (623.8K) with trend analysis
-Customer Analysis: Identify top-performing customers and their contribution to overall sales and profitability
-Regional Distribution: Analyze sales patterns across different geographical regions (Central, North, South)
-Product Categories: Determine sales performance and quantity distribution by sub-categories
-Seasonal Trends: Track order patterns and performance trends over time (2017-2020)
-Shipping Analysis: Compare performance across different shipping modes (Economy, Economy Plus, Immediate)
+1. Performance Metrics: Display key performance indicators including total sales (1.3M), costs (639.7K), and profit (623.8K) with trend analysis
+2. Customer Analysis: Identify top-performing customers and their contribution to overall sales and profitability
+3. Regional Distribution: Analyze sales patterns across different geographical regions (Central, North, South)
+4. Product Categories: Determine sales performance and quantity distribution by sub-categories
+5. Seasonal Trends: Track order patterns and performance trends over time (2017-2020)
+6. Shipping Analysis: Compare performance across different shipping modes (Economy, Economy Plus, Immediate)
 
 ## Technical Implementation
 
