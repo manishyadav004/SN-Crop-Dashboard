@@ -1,5 +1,8 @@
-SN-Crop Dashboard Analyst Project 
+# SN-Crop Dashboard Analyst Project 
+
 This project creates a comprehensive agricultural analytics dashboard using crop sales and performance data. The dashboard provides insights into sales performance, cost analysis, profitability metrics, and regional distribution patterns using advanced data visualization techniques and interactive filtering capabilities.
+
+
 Project Overview
 This dashboard analyzes agricultural crop sales data focusing on customer performance, regional distribution, product profitability, and seasonal trends. The platform includes multiple interconnected visualizations designed to provide actionable insights for agricultural business decision-making.
 Business Questions Addressed
