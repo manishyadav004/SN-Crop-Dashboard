@@ -152,4 +152,5 @@ This dashboard analyzes agricultural crop sales data focusing on customer perfor
 - Responsive dashboard design
 - Data transformation and cleaning tools
 
-
+## Screenshots
+(https://github.com/manishyadav004/SN-Crop-Dashboard/blob/main/Screenshot%202025-07-12%20222404.png)
